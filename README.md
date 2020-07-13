@@ -2,6 +2,7 @@
 
 Space Invader game with pygame.
 
+![Sample](https://github.com/Vinicyus/SpaceInvader/blob/master/sample.PNG)
 
 ## Getting Started
 
